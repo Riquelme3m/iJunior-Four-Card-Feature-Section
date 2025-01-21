@@ -19,13 +19,14 @@ body {
     font-family: "Poppins";
     font-size: 15px;
     background-color: var(--Very-Light-Gray);
+    
 }
 
 .main {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: 4;
-    padding: 2rem 2rem 4rem 2rem;
+    padding: 2rem 2rem 2rem 2rem;
     gap: 2rem;
 }
 
@@ -92,6 +93,7 @@ h2{
     box-shadow: 0px 6px 10px rgba(205, 205, 205, 0.807);
     border-radius: 0.5rem;
     border-top: 5px solid var(--Red);
+    
 }
 
 .main .karma {
@@ -135,11 +137,10 @@ h2{
     .main {
         grid-template-columns: repeat(3, 3fr);
         grid-template-rows: 1fr 1fr 1fr 1fr;
-        
         align-items: center;
-        gap:2rem;
+        gap:1rem;
         width:100%;
-        max-width:1200px;
+        max-width:1100px;
         margin: auto;
 
     }
@@ -169,7 +170,7 @@ h2{
 
     .introduction h1 {
 
-        font-size: 2rem;
+        font-size: 1.6rem;
         color: var(--Very-Dark-Blue);
         font-weight: 700;
     }
@@ -183,6 +184,18 @@ h2{
     }
     h2{
         font-size:1rem;
+    }
+    .main .team-builder{
+        height:250px;
+    }
+    .main .supervisor{
+        height:250px;
+    }
+    .main .karma{
+        height:250px;
+    }
+    .main .calculator{
+        height:250px;
     }
     
 
