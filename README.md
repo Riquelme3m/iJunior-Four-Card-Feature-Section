@@ -1,4 +1,4 @@
-# iJunior- Four Grid Section
+# iJunior-Four-Grid-Section
 
 ## Table of Contents
 
