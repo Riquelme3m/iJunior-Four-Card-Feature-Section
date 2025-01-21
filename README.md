@@ -14,7 +14,7 @@
 
 ### Links
 
-- Solution URL: [https://riquelme3m.github.io/iJunior-Product-Preview-Card-Component/](https://riquelme3m.github.io/iJunior-Product-Preview-Card-Component/)
+- Solution URL: [https://riquelme3m.github.io/iJunior-Four-Card-Feature-Section/](https://riquelme3m.github.io/iJunior-Four-Card-Feature-Section/)
 
 ### Built With
 
